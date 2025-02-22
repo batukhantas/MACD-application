@@ -21,7 +21,6 @@ The tool calculates:
 - Crossover signals for potential trading opportunities
 
 ## Requirements
-python
 pandas
 numpy
 yfinance
